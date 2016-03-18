@@ -48,5 +48,5 @@ Gobblin.stateMap = {
   'FAILED': { color: Gobblin.colors.danger, class: 'danger' }
 }
 Gobblin.settings = {
-  restServerUrl: 'data4:8080'
+  restServerUrl: 'localhost:8080'
 }
